@@ -1,0 +1,129 @@
+.left-menu-home{
+    display: grid;
+    grid-template-columns: 50px 1fr;
+    background-color: rgb(236, 233, 233);
+    align-items: center;
+}
+
+
+
+.left-menu-explore{
+    display: grid;
+    grid-template-columns: 50px 1fr;
+    align-items: center;
+}
+
+
+.left-menu-subscriptions{
+    display: grid;
+    grid-template-columns: 50px 1fr;
+    align-items: center;
+}
+
+
+
+.left-menu-library{
+    display: grid;
+    grid-template-columns: 50px 1fr;
+align-items: center;
+}
+
+
+.left-menu-history{
+    display: grid;
+    grid-template-columns: 50px 1fr;
+align-items: center;
+}
+
+
+.signin-text{
+    padding:10px 10px 10px 30px;
+}
+
+
+.sign-button {
+padding:10px;
+margin-left:20px;
+}
+
+
+.sign-button-dentro{
+    width:120px;
+    height: 40px;
+    border-radius: 5px;
+    color:#0000ff90;
+    background-color: white;
+    border-color: #0000ff90;
+}
+
+
+
+.left-menu-music{
+    display: grid;
+    grid-template-columns: 50px 1fr;
+    align-items: center;
+}
+
+
+.left-menu-sport{
+    display: grid;
+    grid-template-columns: 50px 1fr;
+    align-items: center;
+}
+
+
+
+.left-menu-gaming{
+    display: grid;
+    grid-template-columns: 50px 1fr;
+    align-items: center;
+}
+
+
+.left-menu-movies{
+    display: grid;
+    grid-template-columns: 50px 1fr;
+    align-items: center;
+}
+
+
+
+
+.left-menu-news{
+    display: grid;
+    grid-template-columns: 50px 1fr;
+    align-items: center;
+}
+
+
+.left-menu-live{
+    display: grid;
+    grid-template-columns: 50px 1fr;
+    align-items: center;
+}
+
+
+.left-menu-fashion{
+    display: grid;
+    grid-template-columns: 50px 1fr;
+    align-items: center;
+}
+
+
+.left-menu-news{
+    display: grid;
+    grid-template-columns: 50px 1fr;
+    align-items: center;
+}
+
+
+.left-menu-learning{
+    display: grid;
+    grid-template-columns: 50px 1fr;
+    align-items: center;
+}
+
+
+.best-of-youtube{
+    padding-left:9px;
+}

@@ -2,6 +2,7 @@
     margin:0;
     padding:0;
     box-sizing: border-box;
+    font-family: sans-serif;
 }
 
 
@@ -75,10 +76,15 @@
 
 .left-menu{
     grid-area:left-menu;
-    background-color: #00ff0030;
+    background-color:#ffffff;
+    display: grid;
+    
     
 
 }
+
+
+
 
 
 
