@@ -1,7 +1,7 @@
 .left-menu-home{
     display: grid;
     grid-template-columns: 50px 1fr;
-    background-color: rgb(236, 233, 233);
+    background-color: rgb(245, 239, 239);
     align-items: center;
 }
 

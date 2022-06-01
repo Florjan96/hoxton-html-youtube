@@ -39,7 +39,8 @@
 .header-main input{
     width: 650px;
     height: 30px;
-    border-radius: 3px whitesmoke;
+    
+    border-radius: 3px rgb(117, 33, 33);
 }
 
 
@@ -93,7 +94,7 @@
 
 .main{
     grid-area:main;
-    background-color: #0000ff30;
+    background-color:white;
 }
 
 
