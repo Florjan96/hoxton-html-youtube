@@ -55,10 +55,7 @@
     
 }
 
-.header-right-button{
-    
 
-}
 
 .header-right-button-in{
     padding:11px;
@@ -79,8 +76,14 @@
 .left-menu{
     grid-area:left-menu;
     background-color: #00ff0030;
+    
 
 }
+
+
+
+
+
 
 .main{
     grid-area:main;
