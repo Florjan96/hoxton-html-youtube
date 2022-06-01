@@ -1,0 +1,35 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+
+
+.container{
+    height: 100vh;
+    display:grid;
+    grid-template: 
+    'header header '50px
+    'left-menu main'1fr/
+      230px  1fr;
+}
+
+
+.header{
+    grid-area:header;
+    background-color: #ff000030;
+}
+
+
+.left-menu{
+    grid-area:left-menu;
+    background-color: #00ff0030;
+
+}
+
+.main{
+    grid-area:main;
+    background-color: #0000ff30;
+}
+
